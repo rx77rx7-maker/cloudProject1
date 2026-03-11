@@ -1,1 +1,3 @@
-sudo apt install git -y && git clone https://github.com/rx77rx7-maker/cloudProject1.git && sudo cp -r repo/* /var/www/html/
+sudo apt install git -y 
+git clone https://rx77rx7-maker:ghp_X7tj6sADj5ZHttkvGoSeOwxcfMJwYW34fn9@github.com/rx77rx7-maker/cloudProject1.git
+sudo cp -r cloudProject1/* /var/www/html/
